@@ -1,3 +1,18 @@
+# Python cache
 __pycache__/
 *.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Editors
 .vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local database (if you add SQLite later)
+*.db
